@@ -1,5 +1,7 @@
 const yesBtn = document.getElementById("yes")
 
+const noBtn = document.getElementById("no")
+
 const HK1 = document.getElementById("HK1")
 
 const HK2 = document.getElementById("HK2")
