@@ -21,3 +21,17 @@ yesBtn.addEventListener("click", () => {
     
 
 })
+
+noBtn.addEventListener("click", () => {
+
+    HK1.style.display = "none";
+
+    HK2.style.display = "block";
+
+    willText.style.display = "none";
+
+    yayText.style.display = "block";
+
+
+
+})
